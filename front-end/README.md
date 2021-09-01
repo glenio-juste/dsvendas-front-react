@@ -48,6 +48,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 # dsvendas-front-react
 
-### https://dsvendas-react-glenio.netlify.app/
-01FEHW4BDS4E81XGBWZVNC3Q41
+### https://dsvendas-front-react-glenio.netlify.app/
+
 # dsvendas-front-react
